@@ -9,3 +9,11 @@ Nesse primeiro dia, eu já sabia de basicamente tudo em relação a **API**, **N
 > Além de desenvolver um servidor em **Express** muito simples, usando as rotas de `GET` e `POST`.
 
 **Código da Aula:** `together`
+
+## :date: Dia 21 de junho de 2021
+
+Nesse segundo dia, aprendi a criar o nosso banco de dados em Sqlite e configuralo usando o TypeORM, criamos as Migrations, Entities, Repositories, Services e Controllers no projeto.
+
+> Além de configurar um rota de POST para cadastros.
+
+**Código da Aula:** `unidade`
