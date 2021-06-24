@@ -18,9 +18,15 @@ Nesse segundo dia, aprendi a criar o nosso banco de dados em Sqlite e configural
 
 **Código da Aula:** `unidade`
 
+## :date: Dia 22 de junho de 2021
+
 Não consegui aprender muito sobre o conteúdo da aula, pois era muito rapido a explicação e escrita, ao mesmo tempo fica muito difícil de entender oque está sendo feito.
 Mais entendi mais sobre os Middiewares.
 
-## :date: Dia 22 de junho de 2021
-
 **Código da Aula:** `embuscadeevolução`
+
+## :date: Dia 23 de junho de 2021
+
+Aprendi mais sobre o conceito de JWT, como gerar um token seguro para autenticação e criando os Complementos nas rotas da API.
+
+**Código da Aula:** `legacy`
