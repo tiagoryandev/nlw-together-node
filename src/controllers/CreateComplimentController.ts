@@ -3,13 +3,13 @@ import { CreateComplimentService } from "../services/CreateComplimentsService";
 
 class CreateComplimentController {
 	async handle(request: Request, response: Response) {
-		const { tag_id, user_sender, user_receiver, message } = request.body;
+		const { tag_id, user_id, user_receiver, message } = request.body;
 
 		const createComplimentService = new CreateComplimentService();
 
 		const compliment = await createComplimentService.execute({
 			tag_id, 
-			user_sender, 
+			user_sender: user_id, 
 			user_receiver, 
 			message
 		});
